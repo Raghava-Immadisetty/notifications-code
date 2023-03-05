@@ -1,0 +1,43 @@
+/* Write your code here. */
+.heading {
+  font-size: 35px;
+  font-family: roboto;
+}
+
+.info {
+  height: 250px;
+  width: 650px;
+  display: flex;
+  justify-content: start;
+  padding: 8px;
+  background-color: #0b69ff;
+}
+.icon {
+  height: 30px;
+  width: 45px;
+}
+.success {
+  height: 250px;
+  width: 650px;
+  display: flex;
+  justify-content: start;
+  padding: 8px;
+  background-color: #2dca73;
+}
+.warning {
+  height: 250px;
+  width: 650px;
+  display: flex;
+  justify-content: start;
+  padding: 8px;
+  background-color: #ffb800;
+}
+
+.error {
+  height: 250px;
+  width: 650px;
+  display: flex;
+  justify-content: start;
+  padding: 8px;
+  background-color: #ff0b37;
+}
